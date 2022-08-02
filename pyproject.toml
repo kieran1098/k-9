@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "repl_python3_Try2"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+youtube_dl = "^2021.6.6"
+PyNaCl = "^1.4.0"
+Flask = "^2.0.1"
+emoji = "^1.6.1"
+googletrans = "^3.0.0"
+xkcd = "^2.4.2"
+django-assets-livereload = "^0.3.5"
+praw = "^7.5.0"
+xo = "^1.0.0"
+bs4 = "^0.0.1"
+python-box = "^5.4.1"
+blissops = "^0.1"
+asyncdagpi = "^4.0.0"
+ksoftapi = "^0.4.1"
+ffmpeg = "^1.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
